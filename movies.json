@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "641808a78ed42a0b79857edd"
+  },
+  "Title": "Everything Everywhere All at Once",
+  "Year": 2022,
+  "Rated": "R",
+  "Released": "11-3-2022",
+  "Runtime": "138 phút",
+  "Genres": "Hành động, Phiêu lưu, Hài",
+  "Directors": "Daniel Kwan, Daniel Scheinert",
+  "Actors": "Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis",
+  "Plot": "Một phụ nữ trung niên nhập cư người Trung Quốc bị cuốn vào một cuộc phiêu lưu điên cuồng, nơi cô ấy một mình giải cứu thế giới bằng cách khám phá các vũ trụ khác và các bản thể khác của chính cô.",
+  "Language": "Tiếng Anh - Phụ đề Tiếng Việt",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_SX300.jpg",
+  "Trailer": "https://www.youtube.com/embed/4y5JUTzFlVs",
+  "Banner": "https://wallpapercave.com/wp/wp10904474.jpg",
+  "Cinema": [
+    {
+      "$oid": "643325091d4c8d1d118c1e06"
+    },
+    {
+      "$oid": "643325d11d4c8d1d118c1e07"
+    },
+    {
+      "$oid": "6433267e1d4c8d1d118c1e08"
+    }
+  ],
+  "Status": "Đang chiếu",
+  "createdAt": {
+    "$date": "2023-03-20T07:17:59.943Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T21:19:14.968Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64180cf18ed42a0b79858168"
+  },
+  "Title": "Shazam! Fury of the Gods",
+  "Year": 2023,
+  "Rated": "PG-13",
+  "Released": "17-3-2023",
+  "Runtime": "130 phút",
+  "Genres": " Hành động, Phiêu lưu, Hài",
+  "Directors": "David F. Sandberg",
+  "Actors": "Zachary Levi, Asher Angel, Jack Dylan Grazer, Adam Brody, Ross Butler, Meagan Good, D.J. Cotrona, Grace Caroline Currey, Faithe Herman, Ian Chen, Jovan Armand, Marta Milans, Cooper Andrews, Djimon Hounsou",
+  "Plot": "Một tác phẩm từ New Line Cinema mang tên “Shazam! Fury of the Gods,” tiếp tục câu chuyện về chàng trai Billy Batson, và bản ngã Siêu anh hùng trưởng thành của mình sau khi hô cụm từ “SHAZAM !,” ma thuật.",
+  "Language": "Tiếng Anh - Phụ đề Tiếng Việt",
+  "Poster": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/s/h/shazam_fotg_payoff_poster_1_.jpg",
+  "Trailer": "https://youtube.com/embed/lPmzBaNJUzI",
+  "Banner": "https://i0.wp.com/batman-news.com/wp-content/uploads/2022/11/Shazam-Fury-of-the-Gods-Poster-1-Featured-01.jpg?resize=828%2C466&quality=80&strip=info&ssl=1",
+  "Cinema": [],
+  "Status": "Đang chiếu",
+  "createdAt": {
+    "$date": "2023-03-20T07:36:17.366Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T21:21:20.020Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6433288ce7366b2aa7360296"
+  },
+  "Title": "ANH EM SUPER MARIO",
+  "Year": 2023,
+  "Rated": "2023",
+  "Released": "07/04/2023",
+  "Runtime": "92 phút",
+  "Genres": "Hài, Hoạt Hình, Phiêu Lưu",
+  "Directors": "Aaron Horvath, Michael Jelenic",
+  "Actors": "Chris Pratt, Anya Taylor-Joy, Charlie Day, …",
+  "Plot": "Câu chuyện về cuộc phiêu lưu của anh em Super Mario đến vương quốc Nấm.",
+  "Language": "Tiếng Anh - Phụ đề Tiếng Việt; Lồng tiếng",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_SX300.jpg",
+  "Trailer": "https://youtube.com/embed/RjNcTBXTk4I",
+  "Banner": "https://movies.universalpictures.com/media/02-smb-dm-mobile-banner-1080x745-pl-f01-022723-63fe3cbc4df54-1.jpg",
+  "Cinema": [],
+  "Status": "Đang chiếu",
+  "createdAt": {
+    "$date": "2023-04-09T21:05:16.486Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T21:21:44.782Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643329cee7366b2aa73612f3"
+  },
+  "Title": "NGỤC TỐI & RỒNG: DANH DỰ CỦA KẺ TRỘM",
+  "Year": 2023,
+  "Rated": "PG-13",
+  "Released": "31-5-2023",
+  "Runtime": "134 phút",
+  "Genres": "Hành Động, Phiêu Lưu, Thần thoại",
+  "Directors": "John Francis Daley, Jonathan Goldstein",
+  "Actors": "Chris Pine, Michelle Rodriguez, Regé-Jean Page",
+  "Plot": "Theo chân một tên trộm quyến rũ và một nhóm những kẻ bịp bợm nghiệp dư thực hiện vụ trộm sử thi nhằm lấy lại một di vật đã mất, nhưng mọi thứ trở nên nguy hiểm khó lường hơn bao giờ hết khi họ đã chạm trán nhầm người. Ngục Tối Và Rồng: Danh Dự Của Kẻ Trộm mang thế giới huyền ảo của trò chơi nhập vai huyền thoại lên màn ảnh rộng bằng một cuộc phiêu lưu tràn ngập các màn hành động đã mắt cùng màu sắc hài hước, vui nhộn.",
+  "Language": "Tiếng Anh - Phụ đề Tiếng Việt",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZjAyMGMwYTEtNDk4ZS00YmY0LThhZjUtOWI4ZjFmZmU4N2I3XkEyXkFqcGdeQXVyMTEyNzQ1MTk0._V1_SX300.jpg",
+  "Trailer": "https://youtube.com/embed/IiMinixSXII",
+  "Banner": "https://dx35vtwkllhj9.cloudfront.net/paramountpictures/dungeons-and-dragons-honor-among-thieves/images/regions/us/header.jpg",
+  "Cinema": [],
+  "Status": "Sắp chiếu",
+  "createdAt": {
+    "$date": "2023-04-09T21:10:38.348Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T21:22:25.264Z"
+  },
+  "__v": 0
+}]

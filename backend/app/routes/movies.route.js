@@ -18,7 +18,9 @@ router
     .get(cinema.findOne)
     .put(cinema.update)
     .delete(cinema.delete);
-
+router
+    .route("/:id/seatlist")
+    .put(cinema.updateSeatList)
 router
     .route("/:id")
     .get(movies.findOne)

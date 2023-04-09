@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6418478aacd5b80a2ca4e667"
+  },
+  "MovieTitle": "Everything Everywhere All at Once",
+  "CinemaName": "Cinema B",
+  "Date": "15/03/2023",
+  "Time": "12:30",
+  "SeatNumber": [
+    "E7",
+    "F7"
+  ],
+  "Price": 789000,
+  "UserID": "ZKGKs2TI6QXmtIzS2ON3WexeAJI2",
+  "Status": "Đã thanh toán",
+  "createdAt": {
+    "$date": "2023-03-20T11:46:18.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-20T11:48:00.618Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6433158b67e4481828492521"
+  },
+  "MovieTitle": "Everything Everywhere All at Once",
+  "CinemaName": "Rex Cinema",
+  "Date": "2023-03-20",
+  "Time": "09:00 AM",
+  "SeatNumber": [
+    "A11",
+    "A12"
+  ],
+  "Price": 439000,
+  "UserID": "EeF27jB33WRszvGmqyO6krGYpin2",
+  "Status": "Đã thanh toán",
+  "createdAt": {
+    "$date": "2023-04-09T19:44:11.015Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T20:00:50.381Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6433169f67e4481828492556"
+  },
+  "MovieTitle": "Everything Everywhere All at Once",
+  "CinemaName": "Rex Cinema",
+  "Date": "2023-03-20",
+  "Time": "09:00 AM",
+  "SeatNumber": [
+    "A11",
+    "A12"
+  ],
+  "Price": 200000,
+  "UserID": "EeF27jB33WRszvGmqyO6krGYpin2",
+  "Status": "Đã thanh toán",
+  "createdAt": {
+    "$date": "2023-04-09T19:48:47.810Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T20:00:52.562Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6433300ce7366b2aa7367a0b"
+  },
+  "MovieTitle": "Everything Everywhere All at Once",
+  "CinemaName": "T-Rex Cinema",
+  "Date": "2023-03-20",
+  "Time": "09:00 AM",
+  "SeatNumber": [
+    "A7",
+    "B7"
+  ],
+  "Price": 439000,
+  "UserID": "EeF27jB33WRszvGmqyO6krGYpin2",
+  "Status": "Chưa thanh toán",
+  "createdAt": {
+    "$date": "2023-04-09T21:37:16.847Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T21:37:16.847Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64333150e7366b2aa7369d58"
+  },
+  "MovieTitle": "Everything Everywhere All at Once",
+  "CinemaName": "T-Rex Cinema",
+  "Date": "2023-03-20",
+  "Time": "09:00 AM",
+  "SeatNumber": [
+    "I7"
+  ],
+  "Price": 183000,
+  "UserID": "aJYP2SWnyKf7exew29T5rIwKNaz2",
+  "Status": "Chưa thanh toán",
+  "createdAt": {
+    "$date": "2023-04-09T21:42:40.260Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T21:42:40.260Z"
+  },
+  "__v": 0
+}]

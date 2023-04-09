@@ -1,0 +1,3853 @@
+[{
+  "_id": {
+    "$oid": "643325091d4c8d1d118c1e06"
+  },
+  "Name": "T-Rex Cinema",
+  "Seats": 106,
+  "ShowTimes": [
+    {
+      "Date": "2023-03-20",
+      "Time": "09:00 AM",
+      "SeatList": [
+        {
+          "SeatName": "A",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "B",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "C",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "D",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "E",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "F",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "G",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "H",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "I",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "K",
+          "Type": "VIP",
+          "Price": 150000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492506"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492507"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492505"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6433153f67e4481828492501"
+      }
+    }
+  ],
+  "Foods": [
+    {
+      "$oid": "641800f10e8ea2ffab887e7f"
+    },
+    {
+      "$oid": "641800f10e8ea2ffab887e80"
+    },
+    {
+      "$oid": "641800f10e8ea2ffab887e81"
+    },
+    {
+      "$oid": "641800f10e8ea2ffab887e82"
+    },
+    {
+      "$oid": "641800f10e8ea2ffab887e83"
+    }
+  ],
+  "updatedAt": {
+    "$date": "2023-04-09T21:42:40.283Z"
+  }
+},{
+  "_id": {
+    "$oid": "643325d11d4c8d1d118c1e07"
+  },
+  "Name": "Triceratops Cinema",
+  "Seats": 106,
+  "ShowTimes": [
+    {
+      "Date": "2023-03-20",
+      "Time": "09:00 AM",
+      "SeatList": [
+        {
+          "SeatName": "A",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "B",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "C",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "D",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "E",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "F",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "G",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "H",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "I",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "K",
+          "Type": "VIP",
+          "Price": 150000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492506"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492507"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492505"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6433153f67e4481828492501"
+      }
+    }
+  ],
+  "Foods": [
+    {
+      "$oid": "641800f10e8ea2ffab887e7f"
+    },
+    {
+      "$oid": "641800f10e8ea2ffab887e80"
+    },
+    {
+      "$oid": "641800f10e8ea2ffab887e81"
+    },
+    {
+      "$oid": "641800f10e8ea2ffab887e82"
+    },
+    {
+      "$oid": "641800f10e8ea2ffab887e83"
+    }
+  ],
+  "updatedAt": {
+    "$date": "2023-04-09T19:43:03.177Z"
+  }
+},{
+  "_id": {
+    "$oid": "6433267e1d4c8d1d118c1e08"
+  },
+  "Name": "Brachiosaurus Cinema",
+  "Seats": 106,
+  "ShowTimes": [
+    {
+      "Date": "2023-03-20",
+      "Time": "09:00 AM",
+      "SeatList": [
+        {
+          "SeatName": "A",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "B",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "C",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "D",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "E",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "F",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "G",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "H",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "I",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "K",
+          "Type": "VIP",
+          "Price": 150000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492506"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492507"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492505"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6433153f67e4481828492501"
+      }
+    },
+    {
+      "Date": "2023-03-20",
+      "Time": "15:00 AM",
+      "SeatList": [
+        {
+          "SeatName": "A",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "B",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "C",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "D",
+          "Type": "Regular",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "E",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "F",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "G",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "H",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "I",
+          "Type": "VIP",
+          "Price": 100000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492503"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 3,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 4,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 5,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 6,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 7,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 8,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 9,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 10,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 11,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 12,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            },
+            {
+              "Number": 13,
+              "Status": "Chưa chọn",
+              "_id": {
+                "$oid": "6433153f67e4481828492504"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492502"
+          }
+        },
+        {
+          "SeatName": "K",
+          "Type": "VIP",
+          "Price": 150000,
+          "SeatNumber": [
+            {
+              "Number": 1,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492506"
+              }
+            },
+            {
+              "Number": 2,
+              "Status": "Đã đặt",
+              "_id": {
+                "$oid": "6433153f67e4481828492507"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6433153f67e4481828492505"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6433153f67e4481828492501"
+      }
+    }
+  ],
+  "Foods": [
+    {
+      "$oid": "641800f10e8ea2ffab887e7f"
+    },
+    {
+      "$oid": "641800f10e8ea2ffab887e80"
+    },
+    {
+      "$oid": "641800f10e8ea2ffab887e81"
+    },
+    {
+      "$oid": "641800f10e8ea2ffab887e82"
+    },
+    {
+      "$oid": "641800f10e8ea2ffab887e83"
+    }
+  ],
+  "updatedAt": {
+    "$date": "2023-04-09T19:43:03.177Z"
+  }
+}]

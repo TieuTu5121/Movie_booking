@@ -5,7 +5,7 @@
         class="flex items-center justify-between text-xl h-full text-white font-semibold flex-grow-2"
       >
         <li class="mr-8">
-          <router-link class="hover:text-red-400" to="/">Home</router-link>
+          <router-link class="hover:text-red-400" to="/">Trang Chủ</router-link>
         </li>
         <li class="mr-8 hover:text-red">
           <router-link class="hover:text-red-400" to="/showing"

@@ -1,0 +1,19 @@
+[{
+  "_id": "IwgVyer9DWSepWpl6d7V4Kftq8b2",
+  "displayName": "Nguyen Hao",
+  "email": "nghaongu1@gmail.com",
+  "role": "employee",
+  "__v": 0
+},{
+  "_id": "EeF27jB33WRszvGmqyO6krGYpin2",
+  "displayName": "Nguyen Hao",
+  "email": "nghaongu3@gmail.com",
+  "role": "admin",
+  "__v": 0
+},{
+  "_id": "ZKGKs2TI6QXmtIzS2ON3WexeAJI2",
+  "displayName": "Hao User",
+  "email": "nghaongu2@gmail.com",
+  "role": "user",
+  "__v": 0
+}]

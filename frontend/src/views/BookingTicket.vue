@@ -7,31 +7,22 @@
     <!-- Select cinema -->
     <div class="my-4">
       <h2 class="text-lg font-semibold mb-2">Chọn phòng chiếu:</h2>
-      <button
-        v-for="cinema in cinemas"
-        :class="
-          cinemaSelected.Name == cinema.Name ? 'bg-red-400 text-white' : null
-        "
-        :key="cinema._id"
+      <button v-for="cinema in cinemas" :class="
+        cinemaSelected.Name == cinema.Name ? 'bg-red-400 text-white' : null
+      " :key="cinema._id"
         class="px-4 py-2 mr-2 border border-red-400 font-semibold hover:bg-red-400 hover:text-white"
-        @click.prevent="cinemaSelect(cinema)"
-      >
+        @click.prevent="cinemaSelect(cinema)">
         {{ cinema.Name }}
       </button>
     </div>
     <div class="my-3" v-if="cinemaSelected.isSelected">
       <h2 class="text-lg font-semibold mb-2">Chọn thời gian:</h2>
-      <button
-        v-for="showTimes in cinemaSelected.ShowTimes"
-        :key="showTimes.Time"
-        :class="
-          showTimes.Date == order.Date && showTimes.Time == order.Time
-            ? 'bg-red-400 text-white'
-            : null
-        "
-        class="px-4 py-2 mr-2 border border-red-400 font-semibold hover:bg-red-400 hover:text-white"
-        @click.prevent="dateSelect(showTimes)"
-      >
+      <button v-for="showTimes in cinemaSelected.ShowTimes" :key="showTimes.Time" :class="
+        showTimes.Date == order.Date && showTimes.Time == order.Time
+          ? 'bg-red-400 text-white'
+          : null
+      " class="px-4 py-2 mr-2 border border-red-400 font-semibold hover:bg-red-400 hover:text-white"
+        @click.prevent="dateSelect(showTimes)">
         {{ showTimes.Date }} <br />{{ showTimes.Time }}
       </button>
     </div>
@@ -47,50 +38,34 @@
     <!-- Select seat -->
     <div class="w-3/4 mx-auto mt-24 flex flex-col items-center">
       <div v-for="rowSeat in rowSeats" :key="rowSeat._id">
-        <button
-          v-for="seat in rowSeat.SeatNumber"
-          :key="seat"
-          class="border border-red-600 w-9 ml-4 mb-2 hover:bg-red-400 hover:text-white"
-          :class="[
+
+        <button v-for="seat in rowSeat.SeatNumber" :key="seat"
+          class="border border-red-600 w-9 ml-4 mb-2 hover:bg-red-400 hover:text-white" :class="[
             rowSeat.Type == 'VIP' ? 'bg-yellow-100' : null,
             seat.Status == 'Đã đặt'
               ? '!bg-red-600 text-white cursor-not-allowed'
               : null,
             seat.Status == 'Đã chọn' ? '!bg-red-400 text-white' : null,
-          ]"
-          @click.prevent="seatSelect(rowSeat, seat)"
-        >
+          ]" @click.prevent="seatSelect(rowSeat, seat)">
           {{ rowSeat.SeatName }}{{ seat.Number }}
         </button>
       </div>
 
       <div class="mt-12 flex">
         <div class="flex mr-6">
-          <button
-            @click.prevent=""
-            class="border border-red-600 w-9 mr-2 h-full"
-          ></button>
+          <button @click.prevent="" class="border border-red-600 w-9 mr-2 h-full"></button>
           Chưa chọn
         </div>
         <div class="flex mr-6">
-          <button
-            @click.prevent=""
-            class="border bg-red-400 w-9 mr-2 h-full"
-          ></button>
+          <button @click.prevent="" class="border bg-red-400 w-9 mr-2 h-full"></button>
           Đã chọn
         </div>
         <div class="flex mr-6">
-          <button
-            @click.prevent=""
-            class="border bg-red-600 w-9 mr-2 h-full"
-          ></button>
+          <button @click.prevent="" class="border bg-red-600 w-9 mr-2 h-full"></button>
           Đã đặt
         </div>
         <div class="flex mr-6">
-          <button
-            @click.prevent=""
-            class="border bg-yellow-100 w-9 mr-2 h-full"
-          ></button>
+          <button @click.prevent="" class="border bg-yellow-100 w-9 mr-2 h-full"></button>
           VIP
         </div>
       </div>
@@ -122,32 +97,24 @@
           </p>
 
           <div class="flex mt-3">
-            <button
-              class="bg-red-600 px-2 text-white hover:bg-red-500"
-              @click.prevent="
-                if (food.Quantiy == null || food.Quantiy == 0) {
-                  food.Quantiy = 0;
-                } else {
-                  food.Quantiy--;
-                  order.FoodPrice -= food.Price;
-                }
-              "
-            >
+            <button class="bg-red-600 px-2 text-white hover:bg-red-500" @click.prevent="
+                              if (food.Quantiy == null || food.Quantiy == 0) {
+              food.Quantiy = 0;
+            } else {
+              food.Quantiy--;
+              order.FoodPrice -= food.Price;
+            }
+                            ">
               -
             </button>
-            <span
-              class="border border-black inline-block w-8 h-6 text-center mx-3"
-              >{{ food.Quantiy != null ? food.Quantiy : 0 }}</span
-            >
-            <button
-              class="bg-red-600 px-2 text-white hover:bg-red-500"
-              @click.prevent="
-                food.Quantiy == null || food.Quantiy == 0
-                  ? (food.Quantiy = 1)
-                  : food.Quantiy++;
-                order.FoodPrice += food.Price;
-              "
-            >
+            <span class="border border-black inline-block w-8 h-6 text-center mx-3">{{ food.Quantiy != null ? food.Quantiy
+              : 0 }}</span>
+            <button class="bg-red-600 px-2 text-white hover:bg-red-500" @click.prevent="
+              food.Quantiy == null || food.Quantiy == 0
+                ? (food.Quantiy = 1)
+                : food.Quantiy++;
+            order.FoodPrice += food.Price;
+                            ">
               +
             </button>
           </div>
@@ -163,15 +130,13 @@
           <h3 class="font-bold text-2xl mb-4">{{ order.Title }}</h3>
           <p>
             <strong>Chỗ Ngồi: </strong>
-            <span v-for="seat in order.SeatsList" :key="seat"
-              >{{ seat }},
+            <span v-for="seat in order.SeatsList" :key="seat">{{ seat }},
             </span>
           </p>
           <p><strong>Phòng chiếu: </strong>{{ order.CinemaName }}</p>
           <p><strong>Suất chiếu: </strong>{{ order.Time }}, {{ order.Date }}</p>
           <p>
-            <strong>Giá phim: </strong
-            >{{
+            <strong>Giá phim: </strong>{{
               new Intl.NumberFormat("vi-VN", {
                 style: "currency",
                 currency: "VND",
@@ -179,8 +144,7 @@
             }}
           </p>
           <p>
-            <strong>Giá đồ ăn: </strong
-            >{{
+            <strong>Giá đồ ăn: </strong>{{
               new Intl.NumberFormat("vi-VN", {
                 style: "currency",
                 currency: "VND",
@@ -188,8 +152,7 @@
             }}
           </p>
           <p>
-            <strong>Tổng: </strong
-            >{{
+            <strong>Tổng: </strong>{{
               new Intl.NumberFormat("vi-VN", {
                 style: "currency",
                 currency: "VND",
@@ -209,18 +172,11 @@
         </div>
       </div>
       <div class="flex justify-end w-full">
-        <button
-          v-if="!isPending"
-          @click.prevent="createOrder()"
-          class="bg-blue-600 rounded-md text-white font-bold px-10 py-3 text-lg hover:bg-blue-500"
-        >
+        <button v-if="!isPending" @click.prevent="createOrder()"
+          class="bg-blue-600 rounded-md text-white font-bold px-10 py-3 text-lg hover:bg-blue-500">
           Xác nhận
         </button>
-        <button
-          class="bg-gray-800 text-white px-4 py-2 rounded-lg mt-4 cursor-not-allowed"
-          v-else
-          disabled
-        >
+        <button class="bg-gray-800 text-white px-4 py-2 rounded-lg mt-4 cursor-not-allowed" v-else disabled>
           Đang đặt vé...
         </button>
       </div>
@@ -369,7 +325,7 @@ export default {
     async function createOrder() {
       if (
         document.querySelectorAll(".pay-form input:checked")[0].value ==
-          "cash" &&
+        "cash" &&
         order.MoviePrice != 0
       ) {
         try {
@@ -392,20 +348,23 @@ export default {
               isPending.value = true;
             })
             .then(async () => {
-              await fetch(
-                `http://localhost:3000/api/movies/${cinemaSelected.id}/seatlist`,
-                {
-                  method: "PUT",
-                  headers: { "Content-Type": "application/json" },
-                  body: JSON.stringify({
-                    id: showtimesId,
-                    SeatNumber: [...order.SeatsList],
-                    Status: "Đã đặt",
-                  }),
-                }
-              )
-                .then((response) => response.json())
-                .then((data) => console.log(data));
+              // Change seat status to "Đã đặt"
+              if (order.SeatsList.length > 0) {
+                await fetch(
+                  `http://localhost:3000/api/movies/${cinemaSelected.id}/seatlist`,
+                  {
+                    method: "PUT",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                      id: showtimesId,
+                      SeatNumber: [...order.SeatsList],
+                      Status: "Đã đặt",
+                    }),
+                  }
+                )
+                  .then((response) => response.json())
+                  .then((data) => console.log(data));
+              }
 
               router.push({
                 name: "UserOrders",
